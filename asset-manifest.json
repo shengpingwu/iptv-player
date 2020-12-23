@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "//iptv-player/static/css/main.6dea0f05.chunk.css",
+    "main.js": "//iptv-player/static/js/main.cbb4c9bd.chunk.js",
+    "main.js.map": "//iptv-player/static/js/main.cbb4c9bd.chunk.js.map",
+    "runtime-main.js": "//iptv-player/static/js/runtime-main.141937f0.js",
+    "runtime-main.js.map": "//iptv-player/static/js/runtime-main.141937f0.js.map",
+    "static/css/2.8e71f668.chunk.css": "//iptv-player/static/css/2.8e71f668.chunk.css",
+    "static/js/2.08cf7d54.chunk.js": "//iptv-player/static/js/2.08cf7d54.chunk.js",
+    "static/js/2.08cf7d54.chunk.js.map": "//iptv-player/static/js/2.08cf7d54.chunk.js.map",
+    "static/js/3.5e77c2fd.chunk.js": "//iptv-player/static/js/3.5e77c2fd.chunk.js",
+    "static/js/3.5e77c2fd.chunk.js.map": "//iptv-player/static/js/3.5e77c2fd.chunk.js.map",
+    "index.html": "//iptv-player/index.html",
+    "static/css/2.8e71f668.chunk.css.map": "//iptv-player/static/css/2.8e71f668.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "//iptv-player/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.08cf7d54.chunk.js.LICENSE.txt": "//iptv-player/static/js/2.08cf7d54.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.141937f0.js",
+    "static/css/2.8e71f668.chunk.css",
+    "static/js/2.08cf7d54.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.cbb4c9bd.chunk.js"
+  ]
+}
